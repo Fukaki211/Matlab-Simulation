@@ -19,7 +19,7 @@ This project aims to provide practical implementations of various numerical algo
 
 ## ✍️ Author
 - **Yasuo FUKAKI**
-- LinkedIn: [Your LinkedIn Profile Link]
+- LinkedIn: [https://www.linkedin.com/in/yasuo-fukaki-620559255/]
          'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle', 'Rotation', 15);
     
     drawnow;
