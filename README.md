@@ -6,7 +6,7 @@ A comprehensive repository for algorithm development and engineering simulation 
 This project aims to provide practical implementations of various numerical algorithms and electronic/engineering simulation models. It bridges the gap between software algorithms and hardware circuit simulations.
 
 ### 📊 Optimization Result
-![Optimization Result](my_rsult.fig)
+![Optimization Result](result.jpg)
 
 ## 🛠️ Tech Stack & Tools 
 - **MATLAB**: Used for mathematical modeling, signal processing, and numerical analysis.
