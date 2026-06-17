@@ -22,5 +22,5 @@ This project aims to provide practical implementations of various numerical algo
 - **Yasuo FUKAKI**
 - LinkedIn: [Yasuo FUKAKI on LinkedIn](https://www.linkedin.com/in/yasuo-fukaki-620559255/)
 
-- ### 📊 Optimization Result
-![Optimization Result](rsult.fig)
+### 📊 Optimization Result
+![Optimization Result](result.jpg)
