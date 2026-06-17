@@ -23,5 +23,5 @@ This project aims to provide practical implementations of various numerical algo
          'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle', 'Rotation', 15);
     
     drawnow;
-  ![Optimization Result](data.png)
+  ![Optimization Result](my_result.png)
 end
